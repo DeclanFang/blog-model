@@ -8,8 +8,8 @@ This is a easy-to-use app for people to post and share blogs, for the V1 version
 ![image](https://github.com/DeclanFang/blog-model/blob/master/images/post%20and%20edit.png)
 
 # Instruction
-"npm install" to install all the dependencies the app needed
+$npm install to install all the dependencies the app needed
 
-"mongod" to start the mongoDB
+$mongod to start the mongoDB
 
-"node app.js" to initiate the frontend and backend of "Blog Model"
+$node app.js to initiate the frontend and backend of "Blog Model"
